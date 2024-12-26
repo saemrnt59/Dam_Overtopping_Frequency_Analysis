@@ -1,0 +1,34 @@
+Name,TOPDAM_FT,Hazard,Lon,Lat,Management,agency,Number,Sign
+Mississippi River LD1,732.7,Significant,44.915,-93.2016,Uncontrolled,USACE,1,Increase
+Kanopolis,1537,High,38.61941732,-97.96874986,Uncontrolled,USACE,2,Decrease
+Homme,1099,High,48.40468234,-97.79128719,Uncontrolled,USACE,3,No trend
+Benbrook,747,High,32.65374626,-97.45563026,Uncontrolled,USACE,4,No trend
+Whitney,584,High,31.86764781,-97.37049823,Uncontrolled,USACE,5,No trend
+Grapevine,588,High,32.96985908,-97.05621136,Uncontrolled,USACE,6,Increase
+Belton,662,High,31.10851643,-97.47267685,Uncontrolled,USACE,7,Increase
+Lewisville,560,High,33.06931527,-96.96453947,Uncontrolled,USACE,8,No trend
+Pomme De Terre,905,High,37.90074832,-93.32050796,Uncontrolled,USACE,9,No trend
+Pomona,1031,High,38.65079293,-95.55868977,Uncontrolled,USACE,10,Decrease
+Salt Creek 8 - Wagon Train,1312,High,40.6199,-96.5833,Uncontrolled,USACE,11,No trend
+W. Kerr Scott,1107.5,High,36.13441524,-81.22596408,Uncontrolled,USACE,12,No trend
+Salt Creek 9 - Stagecoach,1294,High,40.605,-96.6366,Uncontrolled,USACE,13,No trend
+Canyon,974,High,29.8666,-98.1999,Uncontrolled,USACE,14,Increase
+Salt Creek 13 - Twin Lakes,1364,High,40.825,-96.9566,Uncontrolled,USACE,15,No trend
+Pawnee,1271,High,40.83880665,-96.86559467,Uncontrolled,USACE,16,Increase
+Bardwell,460,High,32.25097428,-96.64137346,Uncontrolled,USACE,17,No trend
+Sam Rayburn,190,High,31.06445615,-94.09252964,Uncontrolled,USACE,18,No trend
+Milford,1213,High,39.083328,-96.894997,Uncontrolled,USACE,19,Decrease
+Somerville,280,High,30.32040153,-96.52409137,Uncontrolled,USACE,20,No trend
+Eau Galle,1040.15,High,44.85593096,-92.23968034,Uncontrolled,USACE,21,No trend
+Stillhouse Hollow,698,High,31.02244705,-97.53110592,Uncontrolled,USACE,22,Increase
+Bowman Haley,2794,High,45.9816,-103.2467,Uncontrolled,USACE,23,No trend
+Melvern,1078,High,38.51441374,-95.7130005,Uncontrolled,USACE,24,Decrease
+Anchor,6452.5,High,43.6639,-108.8242,Uncontrolled,USBR,25,No trend
+Folsom,480.5,High,38.683,-121.183,Uncontrolled,USBR,26,No trend
+Sherburne,4816.5,High,48.8283,-113.5211,Uncontrolled,USBR,27,No trend
+Heart Butte,2124,Low,46.5967,-101.8094,Uncontrolled,USBR,28,No trend
+Lewiston,1910,High,40.727,-122.793,Uncontrolled,USBR,29,Decrease
+Ruedi,7788,High,39.3639,-106.818,Uncontrolled,USBR,30,No trend
+Spring Creek Debris,816,High,40.629,-122.474,Uncontrolled,USBR,31,No trend
+Starvation,5725,High,40.19324,-110.44722,Uncontrolled,USBR,32,Decrease
+Whiskeytown,1228,High,40.598,-122.537,Uncontrolled,USBR,33,No trend
