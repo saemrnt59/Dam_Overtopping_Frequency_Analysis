@@ -14,7 +14,6 @@ This repository contains an R script and supporting data for analyzing **dam wat
 2. **Data**  
    - `Dam_info.csv`: Sample metadata for each dam, such as  
      - **Name**  
-     - **Hazard classification**  
      - **Latitude/Longitude**  
      - **Agency**  
      - **Dam crest elevation** (TOPDAM_FT)  
