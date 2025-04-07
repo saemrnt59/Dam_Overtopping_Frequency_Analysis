@@ -15,7 +15,6 @@ This repository contains an R script and supporting data for analyzing **dam wat
    - `Dam_info.csv`: Sample metadata for each dam, such as  
      - **Name**  
      - **Latitude/Longitude**  
-     - **Agency**  
      - **Dam crest elevation** (TOPDAM_FT)  
    - `Dam_data.csv`: Sample Time series of water levels for each dam.  
      - Each column = one dam  
